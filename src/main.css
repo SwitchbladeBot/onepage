@@ -1,0 +1,38 @@
+.child {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+    background: #7289da;
+    padding: 20px;
+    color: #ffffff;
+    width: 750px;
+    height: 450px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 75px;
+    text-shadow: 2px 4px rgba(0, 0, 0, 0.2);
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    /*font-size: 75px;*/
+    text-shadow: 1px 2px rgba(0, 0, 0, 0.2);
+}
+html {
+    background: url('https://i.pinimg.com/originals/68/5e/18/685e18ff8147427079a14ce27d984688.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+img {
+    width: 150px; height: 150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 100%;
+}
