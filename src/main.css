@@ -31,12 +31,8 @@ p {
 html {
     background: url('https://yodobi.com/4k-Wallpapers/4k-wallpapers-phone-Is-4K-Wallpaper.jpg');
     background-repeat: no-repeat;
-    background-size: auto;
-    filter: blur(5px);
-    -webkit-filter: blur(5px);
-    -moz-filter: blur(5px);
-    -o-filter: blur(5px);
-    -ms-filter: blur(5px);
+    background-attachment: fixed;
+    background-position: center; 
 }
 .img {
     width: 150px; height: 150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 100%;
