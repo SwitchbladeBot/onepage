@@ -29,9 +29,14 @@ p {
     text-shadow: 1px 2px rgba(0, 0, 0, 0.2);
 }
 html {
-    background: url('https://i.pinimg.com/originals/68/5e/18/685e18ff8147427079a14ce27d984688.jpg');
+    background: url('https://yodobi.com/4k-Wallpapers/4k-wallpapers-phone-Is-4K-Wallpaper.jpg');
     background-repeat: no-repeat;
     background-size: auto;
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
 }
 .img {
     width: 150px; height: 150px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-radius: 100%;
